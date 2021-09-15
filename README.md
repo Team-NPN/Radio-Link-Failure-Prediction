@@ -4,9 +4,9 @@ Stable and high-quality internet connectivity is mandatory to 5G mobile networks
 <br/>
 The objective of this problem statement is to predict occurrence of radio link failures in:
 1. in the next day
-2. in the following 5 days<br/>
-A Machine Learning and Time Series Forecasting model is built for the same.
+2. in the following 5 days 
 <br/>
+A Machine Learning and Time Series Forecasting model is built for the same.<br/>
 The Repository contains the following files:</br>
 1) **Training_final.ipynb**: Python notebook with code to predict radio link faliure
 2) **final_feature_engineering.ipynb**: Python notebook with code to predict the redundant columns that can be eliminated to improve performance of failure prediction
