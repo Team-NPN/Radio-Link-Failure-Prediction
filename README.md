@@ -15,7 +15,7 @@ The Repository contains the following files:</br>
 
 </br>
 
-The problem statement is a part of ~ITU AI for Good Machine Learning in 5G Challenge~. The dataset was provided by TurkCell and can be accessed using the following link: https://github.com/Turkcell/ITU-AIMLin5GChallenge-2021    <br/>
+The problem statement is a part of **ITU AI for Good Machine Learning in 5G Challenge**. The dataset was provided by TurkCell and can be accessed using the following link: https://github.com/Turkcell/ITU-AIMLin5GChallenge-2021    <br/>
 <br/>
 Zip file of the dataset contains the following tab separated files (tsv):<br/>
 • distances.tsv: pair-wise distances<br/>
