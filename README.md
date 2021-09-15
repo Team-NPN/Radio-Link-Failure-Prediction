@@ -8,8 +8,8 @@ The objective of this problem statement is to predict occurrence of radio link f
 <br/>
 A Machine Learning and Time Series Forecasting model is built for the same.<br/>
 The Repository contains the following files:</br>
-1. **Training_final.ipynb**: Python notebook with code to predict radio link faliure
-2. **final_feature_engineering.ipynb**: Python notebook with code to predict the redundant columns that can be eliminated to improve performance of failure prediction
+1. **Training_final.ipynb**: Python notebook with code to predict radio link faliure</br>
+2. **final_feature_engineering.ipynb**: Python notebook with code to predict the redundant columns that can be eliminated to improve performance of failure prediction</br>
 3. **Forecast_LSTM.ipynb**: Python notebook to forecast the weather for the next 5 days </br>
 
 
