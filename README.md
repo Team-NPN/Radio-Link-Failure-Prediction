@@ -12,7 +12,7 @@ The Repository contains the following files:</br>
 2. **final_feature_engineering.ipynb**: Python notebook with code to predict the redundant columns that can be eliminated to improve performance of failure prediction</br>
 3. **Forecast_LSTM.ipynb**: Python notebook to forecast the weather for the next 5 days </br>
 
-
+</br>
 The problem statement is a part of **ITU AI for good Machine Learning in 5g Challenge**. The dataset was provided by TurkCell and can be accessed using the following link: https://github.com/Turkcell/ITU-AIMLin5GChallenge-2021    <br/>
 <br/>
 Zip file of the dataset contains the following tab separated files (tsv):<br/>
