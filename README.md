@@ -1,7 +1,7 @@
 # Radio-Link-Failure-Prediction
 ### An ML-based RLF Prediction Algorithm to predict failures in a radio-link wireless communication channel<br/>
-Stable and high-quality internet connectivity is mandatory to 5G mobile networks, but once something unexpected happens, the influence of the defect is quite severing. This is due to various weather-related phenomena that affect the performance of radio links like cloud, rain, snow etc. Thus correct radio link failure prediction is necessary to avoid such radio link failures.
-<br/>
+Stable and high-quality internet connectivity is mandatory to 5G mobile networks, but once something unexpected happens, the influence of the defect is quite severing. This is due to various weather-related phenomena that affect the performance of radio links like cloud, rain, snow etc. Thus correct radio link failure prediction is necessary to avoid such radio link failures.<br/>
+
 The objective of this problem statement is to predict occurrence of radio link failures in:
 1. in the next day
 2. in the following 5 days 
