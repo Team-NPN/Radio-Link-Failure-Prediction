@@ -4,7 +4,7 @@ Stable and high-quality internet connectivity is mandatory to 5G mobile networks
 <br/>
 The objective of this problem statement is to predict occurrence of radio link failures in:
 1. in the next day
-2. in the following 5 days
+2. in the following 5 days<br/>
 A Machine Learning and Time Series Forecasting model is built for the same.
 <br/>
 The Repository contains the following files:</br>
@@ -13,7 +13,7 @@ The Repository contains the following files:</br>
 3) **Forecast_LSTM.ipynb**: Python notebook to forecast the weather for the next 5 days
 <br/>
 The problem statement is a part of **ITU AI for good Machine Learning in 5g Challenge**. The dataset was provided by TurkCell and can be accessed using the following link: https://github.com/Turkcell/ITU-AIMLin5GChallenge-2021 <br/>
-
+<br/>
 Zip file of the dataset contains the following tab separated files (tsv):<br/>
 • distances.tsv: pair-wise distances<br/>
 • met-forecast.tsv: meteorology 5-day forecasts<br/>
