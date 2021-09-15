@@ -14,7 +14,7 @@ The Repository contains the following files:</br>
 3. **Forecast_LSTM.ipynb** : Python notebook to forecast the weather for the next 5 days </br>
 
 </br>
-The problem statement is a part of __ITU AI for good Machine Learning in 5g Challenge.__ The dataset was provided by TurkCell and can be accessed using the following link: https://github.com/Turkcell/ITU-AIMLin5GChallenge-2021    <br/>
+The problem statement is a part of __ITU AI for Good Machine Learning in 5G Challenge__. The dataset was provided by TurkCell and can be accessed using the following link: https://github.com/Turkcell/ITU-AIMLin5GChallenge-2021    <br/>
 <br/>
 Zip file of the dataset contains the following tab separated files (tsv):<br/>
 • distances.tsv: pair-wise distances<br/>
